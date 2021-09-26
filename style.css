@@ -1,0 +1,12 @@
+h1
+{
+	color: rgba(59, 85, 72, 0.774); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20191025/pngtree-elegant-gold-glitter-background-image_319885.jpg"); background-position: center; background-size: cover;
+}
+
+#myCanvas{
+	border-width:10px; background-color: rgba(255, 255, 255, 0.644); border-style:ridge;
+}
